@@ -14,6 +14,7 @@ namespace VSHelloWorld_130221100
     {
         public static void Main(string[] args)
         {
+            //Isto é agora um teste de como partilhar ficheiros
             CreateWebHostBuilder(args).Build().Run();
         }
 

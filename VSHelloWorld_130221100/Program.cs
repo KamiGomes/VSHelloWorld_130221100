@@ -14,7 +14,7 @@ namespace VSHelloWorld_130221100
     {
         public static void Main(string[] args)
         {
-            //Miguel Gomes
+            //O gomes
             CreateWebHostBuilder(args).Build().Run();
         }
 
